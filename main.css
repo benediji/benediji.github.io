@@ -1,5 +1,5 @@
 .myDiv {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family:Arial, Helvetica, sans-serif;
 	text-align:center;
 }
 .centralTable {
@@ -10,6 +10,10 @@
 
 .imgLogos {
 	max-width: 40%;
+}
+
+.bottomText{
+  color:lightgrey;
 }
 
 /* 
