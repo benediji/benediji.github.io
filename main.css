@@ -1,6 +1,6 @@
 .myDiv {
-	font-family:Arial, Helvetica, sans-serif;
-	text-align:center;
+  font-family:Arial, Helvetica, sans-serif;
+  text-align:center;
 }
 .centralTable {
   margin-left: auto;
@@ -9,11 +9,11 @@
 }
 
 .imgLogos {
-	max-width: 40%;
+  max-width: 40%;
 }
 
 p{
-	color:lightgrey;
+  color:lightgrey;
 }
 
 /* 
